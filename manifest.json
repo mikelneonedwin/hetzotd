@@ -1,0 +1,35 @@
+{
+    "name": "Hetzotd Translator",
+    "short_name": "Hetzotd",
+    "display": "standalone",
+    "start_url": "/",
+    "display_override": [
+        "minimal-ui",
+        "fullscreen"
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#F0F0F0",
+    "icons": [
+        {
+            "src": "/144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/256x256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/1024x1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+}
