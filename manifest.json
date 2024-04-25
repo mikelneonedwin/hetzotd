@@ -1,11 +1,11 @@
 {
     "name": "Hetzotd Translator",
     "short_name": "Hetzotd",
-    "display": "standalone",
+    "display": "fullscreen",
     "start_url": "/",
     "display_override": [
         "minimal-ui",
-        "fullscreen"
+        "standalone"
     ],
     "theme_color": "#FFFFFF",
     "background_color": "#F0F0F0",
